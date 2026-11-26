@@ -1,0 +1,9 @@
+fastapi
+redis
+types-redis
+uvicorn
+pytest
+httpx
+sqlalchemy
+python-jose[cryptography]
+bcrypt
